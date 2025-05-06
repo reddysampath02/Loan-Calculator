@@ -52,7 +52,3 @@ npm run build
 ```
 
 The build files will be created in the `build` folder, ready to be deployed.
-
-## Assessment Submission
-
-This project is submitted as part of the React JS Developer position assessment for Novel Office.
